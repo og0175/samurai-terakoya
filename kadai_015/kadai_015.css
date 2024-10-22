@@ -1,0 +1,33 @@
+.decoration {
+    font-family: "Arial","Meiryo",sans-serif;
+    font-size: 20px;
+}
+.colorpink{
+    color: rgb(255, 192, 203);
+}
+.colorblue{
+    color: skyblue;
+    }
+
+#h1no{
+    font-family: "Josefin Sans", sans-serif;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+    font-size: 2rem;
+  }
+
+.header{
+    text-align: center;
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.child{
+    font-weight: bold;
+}
+
+
+
+html{
+    font-size: 20px;
+}
